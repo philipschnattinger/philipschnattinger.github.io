@@ -83,7 +83,11 @@ analytics:
 # Site Author
 author:
   name             : "Philip Schnattinger"
+<<<<<<< HEAD
   avatar           : "phil_s_picture.png"
+=======
+  avatar           : "/images/phil_s_picture.png"
+>>>>>>> parent of 11f3221 (u11)
   bio              : "PhD Researcher at the Bank of England."
   location         : "United Kingdom"
   employer         :
