@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Philip Schnattinger"
-  avatar           : "/images/phil_s_picture.png"
+  avatar           : /images/phil_s_picture.png
   bio              : "PhD Researcher at the Bank of England."
   location         : "United Kingdom"
   employer         :
