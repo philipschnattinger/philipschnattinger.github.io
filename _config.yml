@@ -18,9 +18,8 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+theme                    : minimal-mistakes-jekyll
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -84,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Philip Schnattinger"
-  avatar           : "images/phil_s_picture.png"
+  avatar           : "/images/phil_s_picture.png"
   bio              : "PhD Researcher at the Bank of England."
   location         : "United Kingdom"
   employer         :
