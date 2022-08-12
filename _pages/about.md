@@ -1,11 +1,60 @@
 ---
 permalink: /
-title: "Welcome - This page is still work in progress"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# About myself
-I am a research economist at the Bank of England. I received my PhD from the University of Oxford in 2022. My research focuses on structural macroeconomics including labour market and firm dynamics, productive factor allocations and capital market frictions. 
+# Briefly About Myself
+I am a research economist at the Bank of England. I received a PhD in economics from the University of Oxford in 2022. I am particularly interested in topics in structural macroeconomics and have conducted research on employment and job creation, firm dynamics, ivestment and productivtity, production factor reallocation, zombie firms, and credit market frictions. 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

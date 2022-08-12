@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Philip Schnattinger"
   avatar           : "phil_s_picture.png"
-  bio              : "PhD Researcher at the Bank of England."
-  location         : "United Kingdom"
+  bio              : "Researcher at the Bank of England"
+  location         : # "United Kingdom"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.at/citations?hl=en&user=kBvMEtsAAAAJ&view_op=list_works&gmla=AJsN-F4B1gyB4YUD2Q0kSEKeyBDGrWvNvK2pI7Dn5rjYqiIdBLoYtwrSR-pc_ocCLmxNJahcIp4VEwFEwGKYgkvOxsHesBMshncQ555kk7VYicqIEQuFoq0"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "philipschnattinger"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-6668-065X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "PSchnattinger"
   vine             :
   weibo            :
   xing             :
