@@ -12,7 +12,9 @@ I am a research economist at the Bank of England. I received a PhD in economics 
 <br />
 <br />
 <br />
+
 You can find a short CV [here](http://philipschnattinger.github.io/files/Philip_Schnattinger_resume.pdf).
+
 <br />
 <br />
 <br />
