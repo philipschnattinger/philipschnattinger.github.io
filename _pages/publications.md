@@ -16,7 +16,7 @@ author_profile: false
  * Joint with  Sudipto Karmakar and Marko Melolinna
  * [Bank of England Staff Working Paper](https://www.bankofengland.co.uk/working-paper/2022/what-is-productive-investment-insights-from-firm-level-data-for-the-united-kingdom)
 
- ## TForbearance Lending as a Crisis Management Tool: Evidence from Japan
+## Forbearance Lending as a Crisis Management Tool: Evidence from Japan
 * Joint with Isabelle Roland and Yukiko Saito
 * [Description of the project](https://www.keynesfund.econ.cam.ac.uk/roland-forbearance-lending-as-a-crisis-management-tool-in-Japan)
 
