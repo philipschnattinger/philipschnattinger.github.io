@@ -7,6 +7,8 @@ author_profile: false
 
 
 # Work in progress
+## Structural determinants of credit market tightness and the zombie firm share
+ * Joint with  Masashige Hamano and Francesco Zanetti
 
 ## No Noise in job creation
  * [Download draft paper here](http://philipschnattinger.github.io/files/No_Noise_in_Job_Creation_paper.pdf)
