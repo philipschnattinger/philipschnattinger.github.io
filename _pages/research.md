@@ -8,8 +8,8 @@ author_profile: false
 
 # Work in progress
 
-## No Noise in job creation
- * [Download draft paper here](http://philipschnattinger.github.io/files/No_Noise_in_Job_Creation_paper.pdf)
+## Beliefs- and fundamentals-driven job creation
+ * [Bank of England Staff Working Paper](https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2023/beliefs-and-fundamentals-driven-job-creation.pdf)
  * [Short video describing the main idea of the paper](https://www.youtube.com/watch?v=1CuFVz8nZiM&t=62s)
 
 ## What is productive investment? Insights from firm-level data for the United Kingdom
@@ -24,8 +24,12 @@ author_profile: false
  * Joint with Daniel E. Rigobon, Thibaut Duprey, Artur Kotlicki, Soheil Baharian (Proof of concept and BoC SWP) and Thomas R. Hurd (Proof of concept and BoC SWP)
  * [Short "Proof of Concept" paper](https://www.mdpi.com/1911-8074/15/4/183)
  * [Bank of Canada Staff Working Paper](https://www.bankofcanada.ca/2022/01/staff-working-paper-2022-1/)
+ * [Joint with Daniel E. Rigobon, Thibaut Duprey, Artur Kotlicki: "Timely Business Dynamics Using Google Places." AEA Papers and Proceedings. Vol. 113. American Economic Association, 2023.](https://www.aeaweb.org/articles?id=10.1257/pandp.20231050)
 
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
