@@ -16,7 +16,7 @@ author_profile: false
  * Joint with  Sudipto Karmakar and Marko Melolinna
  * [Bank of England Staff Working Paper](https://www.bankofengland.co.uk/working-paper/2022/what-is-productive-investment-insights-from-firm-level-data-for-the-united-kingdom)
 
- ## TForbearance Lending as a Crisis Management Tool: Evidence from Japan
+ ## Forbearance Lending as a Crisis Management Tool: Evidence from Japan
 * Joint with Isabelle Roland and Yukiko Saito
 * [Description of the project](https://www.keynesfund.econ.cam.ac.uk/roland-forbearance-lending-as-a-crisis-management-tool-in-Japan)
 
@@ -24,7 +24,8 @@ author_profile: false
  * Joint with Daniel E. Rigobon, Thibaut Duprey, Artur Kotlicki, Soheil Baharian (Proof of concept and BoC SWP) and Thomas R. Hurd (Proof of concept and BoC SWP)
  * [Short "Proof of Concept" paper](https://www.mdpi.com/1911-8074/15/4/183)
  * [Bank of Canada Staff Working Paper](https://www.bankofcanada.ca/2022/01/staff-working-paper-2022-1/)
- * [Joint with Daniel E. Rigobon, Thibaut Duprey, Artur Kotlicki: "Timely Business Dynamics Using Google Places." AEA Papers and Proceedings. Vol. 113. American Economic Association, 2023.](https://www.aeaweb.org/articles?id=10.1257/pandp.20231050)
+ * Joint with Daniel E. Rigobon, Thibaut Duprey, Artur Kotlicki: "Timely Business Dynamics Using Google Places." AEA Papers and Proceedings. Vol. 113. American Economic Association, 2023.
+ * [AEA P&P](https://www.aeaweb.org/articles?id=10.1257/pandp.20231050)
 
 
 <br />
