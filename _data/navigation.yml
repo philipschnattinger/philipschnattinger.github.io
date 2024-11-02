@@ -6,12 +6,11 @@ main:
   - title: "Teaching"
     url: /teaching_/    
 
-  # - title: "Talks"
-  #  url: /talks/    
-
+  - title: "Recent Presentations"
+    url: /recentpresentations/    
     
-#  - title: "Portfolio"
- #   url: /portfolio/
+  - title: "Policywork"
+    url: /policywork/
         
 #- title: "Blog Posts"
  #   url: /year-archive/
