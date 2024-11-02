@@ -7,10 +7,9 @@ main:
     url: /teaching_/    
 
 #  - title: "Recent Presentations"
- #   url: /recentpresentations/    
-    
-  #- title: "Policywork"
- #   url: /policywork/
+ #   url: /recentpresentations/      
+  - title: "Policywork"
+    url: /policywork/
         
 #- title: "Blog Posts"
  #   url: /year-archive/
