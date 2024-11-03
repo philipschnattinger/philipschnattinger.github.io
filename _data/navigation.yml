@@ -4,7 +4,7 @@ main:
     url: /research/
 
   - title: "Teaching"
-    url: /teaching_/    
+    url: /teaching/    
 
 #  - title: "Recent Presentations"
  #   url: /recentpresentations/      
@@ -14,8 +14,8 @@ main:
 #- title: "Blog Posts"
  #   url: /year-archive/
     
- # - title: "CV"
- #   url: /cv/
+  - title: "Short CV and Presentations"
+    url: /cv/
     
  # - title: "Guide"
  #   url: /markdown/
