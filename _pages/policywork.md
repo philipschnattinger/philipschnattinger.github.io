@@ -1,6 +1,7 @@
 ---
 permalink: /policywork/
 title: "Policywork"
+author_profile: false
 ---
 
 ## Blogposts

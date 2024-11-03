@@ -2,6 +2,7 @@
 layout: archive
 title: "Short CV and Presentations"
 permalink: /cv/
+author_profile: false
 
 ---
 
