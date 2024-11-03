@@ -15,7 +15,7 @@ I am particularly interested in topics in structural macroeconomics. My research
 <br />
 <br />
 <br />
-You can find a short CV [here](http://philipschnattinger.github.io/files/Philip_Schnattinger_resume.pdf).
+You can find a short CV [here](https://philipschnattinger.github.io/cv/).
 <br />
 <br />
 <br />
