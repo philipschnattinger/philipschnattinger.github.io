@@ -14,6 +14,7 @@ I am a research economist at the Bank of England. I received a PhD in economics 
 I am particularly interested in topics in structural macroeconomics. My research is on employment and job creation, firm dynamics, ivestment and productivtity, production factor reallocation, zombie firms, and credit market frictions, and the impact on prices. 
 <br />
 <br />
+Contact:  philip.schnattinger |-| at like @ |-| gmail.com
 <br />
 <br />
 <br />
