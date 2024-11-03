@@ -80,6 +80,7 @@ analytics:
 
 # Site Author
 author:
+  bluesky          : "pschnattinger" # Replace this with you Bluesky username
   name             : "Philip Schnattinger"
   avatar           : "phil_s_picture.png"
   bio              : "Researcher at the Bank of England"
@@ -115,7 +116,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  bluesky          : https://bsky.app/profile/pschnattinger.bsky.social
 
 
 # Reading Files
