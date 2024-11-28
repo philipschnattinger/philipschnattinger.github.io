@@ -1,14 +1,11 @@
 ---
 layout: archive
-title: "Short CV and Presentations"
+title: ""
 permalink: /cv/
 author_profile: false
 
 ---
-<br />
-<br />
-<br />
-<br />
+
 ## Recent and upcoming Conference Presentations
 
 ### 2025
