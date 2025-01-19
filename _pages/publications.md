@@ -9,7 +9,7 @@ author_profile: false
 
 ##### Forbearance Lending as a Crisis Management Tool: Evidence from Japan (*with Isabelle Roland and Yukiko Saito*)
 * Materials: [Bank of England Staff Working Paper](https://www.bankofengland.co.uk/working-paper/2024/forbearance-lending-as-a-crisis-management-tool-evidence-from-japan), [Description of the project](https://www.keynesfund.econ.cam.ac.uk/roland-forbearance-lending-as-a-crisis-management-tool-in-Japan)
-* ***Revise and Resubmit at the Journal of Money, Credit, and Banking***
+* ***Revise and Resubmit at the Journal of Money, Credit and Banking***
 
 ##### Structural determinants of credit market tightness and the zombie firm share (*with Masashige Hamano, Mototsugu Shintani, Iichiro Uesugi, and Francesco Zanetti*)
  * Materials: 
