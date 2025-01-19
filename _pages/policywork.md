@@ -16,7 +16,7 @@ author_profile: false
 
 ### [Inflation persistence and monetary policy](https://www.bankofengland.co.uk/-/media/boe/files/speech/2023/april/inflation-persistence-and-monetary-policy-huw-pill-slides.pdf)
 
-## Working Papers 
+## Central Bank Working Papers 
 
 ### [Beliefs- and fundamentals-driven job creation (Staff Working Paper No. 1,040, 2023)](https://www.bankofengland.co.uk/working-paper/2023/beliefs-and-fundamentals-driven-job-creation)
   
