@@ -14,15 +14,18 @@ author_profile: false
 * ***Revise and Resubmit at the Journal of Money, Credit and Banking***
 
 ### Structural determinants of credit market tightness and the zombie firm share (*with Masashige Hamano, Mototsugu Shintani, Iichiro Uesugi, and Francesco Zanetti*)
- * Materials: 
+ * Materials: [CEPR Discussion Paper](https://cepr.org/publications/dp19863), [VoxEU Column](https://cepr.org/voxeu/columns/financial-intermediation-and-zombie-firms-theory-and-evidence)
  * ***Submitted***
 
 ### Beliefs- and fundamentals-driven job creation 
  * Materials: [Bank of England Staff Working Paper](https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2023/beliefs-and-fundamentals-driven-job-creation.pdf), [Short video describing the main idea](https://www.youtube.com/watch?v=1CuFVz8nZiM&t=62s)
- * ***Submitted***
+ * ***Conditionally accepted at the Oxford Economic Papers***
 
 ### What is productive investment? Insights from firm-level data for the United Kingdom (*with Sudipto Karmakar, Marko Melolinna, and Isabelle Roland*)
  * Materials: [Earlier Version Bank of England Staff Working Paper](https://www.bankofengland.co.uk/working-paper/2022/what-is-productive-investment-insights-from-firm-level-data-for-the-united-kingdom)
+
+### Bouncing back: how mothballing curbs prices (*Thibaut Duprey, Daniel E. Rigobon, and Artur Kotlicki*)
+ * Materials: [Bank of England Staff Working Paper](https://www.bankofengland.co.uk/working-paper/2025/bouncing-back-how-mothballing-curbs-prices)
 
 
 ## Working Paper coming soon

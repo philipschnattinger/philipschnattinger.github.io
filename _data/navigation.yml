@@ -8,13 +8,13 @@ main:
 
 #  - title: "Recent Presentations"
  #   url: /recentpresentations/      
-  - title: "Policywork"
+  - title: "Policywork, Blogposts, Working Papers, etc."
     url: /policywork/
         
 #- title: "Blog Posts"
  #   url: /year-archive/
     
-  - title: "Short CV and Presentations"
+  - title: "Presentations and Short CV"
     url: /cv/
     
  # - title: "Guide"
