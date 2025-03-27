@@ -17,10 +17,6 @@ author_profile: false
  * Materials: [CEPR Discussion Paper](https://cepr.org/publications/dp19863), [VoxEU Column](https://cepr.org/voxeu/columns/financial-intermediation-and-zombie-firms-theory-and-evidence)
  * ***Submitted***
 
-### Beliefs- and fundamentals-driven job creation 
- * Materials: [Bank of England Staff Working Paper](https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2023/beliefs-and-fundamentals-driven-job-creation.pdf), [Short video describing the main idea](https://www.youtube.com/watch?v=1CuFVz8nZiM&t=62s)
- * ***Conditionally accepted at the Oxford Economic Papers***
-
 ### What is productive investment? Insights from firm-level data for the United Kingdom (*with Sudipto Karmakar, Marko Melolinna, and Isabelle Roland*)
  * Materials: [Earlier Version Bank of England Staff Working Paper](https://www.bankofengland.co.uk/working-paper/2022/what-is-productive-investment-insights-from-firm-level-data-for-the-united-kingdom)
 
@@ -44,6 +40,10 @@ author_profile: false
 <br />
 
 # Published Work
+
+### Beliefs- and fundamentals-driven job creation 
+ * Materials: [Bank of England Staff Working Paper](https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2023/beliefs-and-fundamentals-driven-job-creation.pdf), [Short video describing the main idea](https://www.youtube.com/watch?v=1CuFVz8nZiM&t=62s)
+ * ***Forthcoming at the Oxford Economic Papers***
 
 ### Timely Business Dynamics Using Google Places, AEA Papers and Proceedings. Vol. 113. American Economic Association, 2023. (*with  Thibaut Duprey, Daniel E. Rigobon, and Artur Kotlicki*) [Link](https://www.aeaweb.org/articles?id=10.1257/pandp.20231050)
  * Materials: [Bank of Canada Staff Working Paper](https://www.bankofcanada.ca/2022/01/staff-working-paper-2022-1/), [Short "Proof of Concept" paper in the JRFM](https://www.mdpi.com/1911-8074/15/4/183) (*with Daniel E. Rigobon, Thibaut Duprey, Artur Kotlicki, Soheil Baharian, and Thomas R. Hurd*)

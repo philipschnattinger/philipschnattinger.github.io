@@ -4,13 +4,17 @@ title: ""
 author_profile: false
 ---
 
-## Blogposts
+## Blogposts and Columns
+
+### [What can 40 years of data on vacancy advertising costs tell us about labour market equilibrium?](https://bankunderground.co.uk/2025/03/06/what-can-40-years-of-data-on-vacancy-advertising-costs-tell-us-about-labour-market-equilibrium/) *joint with Michal Stelmach and James Kensett*
 
 ### [Bank Underground Blogpost: Dissecting UK service inflation via a neural network Phillips curve](https://bankunderground.co.uk/2023/07/10/dissecting-uk-service-inflation-via-a-neural-network-phillips-curve/) *joint with Marcus Buckmann and Galina Potjagailo*
 
 ### [Bank Underground Blogpost: Measuring business dynamics in real time](https://bankunderground.co.uk/2022/06/29/measuring-business-dynamics-in-real-rime/#more-10060) *joint with Thibaut Duprey, Artur Kotlicki, and Daniel Rigobon*
 
-### [VoxEU Blogpost: Measuring business openings and closures in real time](https://cepr.org/voxeu/columns/measuring-business-openings-and-closures-real-time) *joint with Thibaut Duprey, Artur Kotlicki, and Daniel Rigobon*
+### [VoxEU Column: Financial intermediation and zombie firms: Theory and evidence](https://cepr.org/voxeu/columns/financial-intermediation-and-zombie-firms-theory-and-evidence) *joint with Masashige Hamano,  Mototsugu Shintani,  Iichiro Uesugi and  Francesco Zanetti*
+
+### [VoxEU Column: Measuring business openings and closures in real time](https://cepr.org/voxeu/columns/measuring-business-openings-and-closures-real-time) *joint with Thibaut Duprey, Artur Kotlicki, and Daniel Rigobon*
 
 ## Speech Preparation
 
