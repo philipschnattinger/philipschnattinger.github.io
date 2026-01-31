@@ -6,6 +6,8 @@ author_profile: false
 
 ## Blogposts and Columns
 
+### [Bank Underground Blogpost: How does lower inflation uncertainty affect households' financial behaviour?](https://bankunderground.co.uk/2025/12/04/how-does-lower-inflation-uncertainty-affect-households-financial-behaviour/) *joint with Johannes J. Fischer and Christoph Herler*
+
 ### [What can 40 years of data on vacancy advertising costs tell us about labour market equilibrium?](https://bankunderground.co.uk/2025/03/06/what-can-40-years-of-data-on-vacancy-advertising-costs-tell-us-about-labour-market-equilibrium/) *joint with Michal Stelmach and James Kensett*
 
 ### [Bank Underground Blogpost: Dissecting UK service inflation via a neural network Phillips curve](https://bankunderground.co.uk/2023/07/10/dissecting-uk-service-inflation-via-a-neural-network-phillips-curve/) *joint with Marcus Buckmann and Galina Potjagailo*
@@ -21,6 +23,10 @@ author_profile: false
 ### [Inflation persistence and monetary policy](https://www.bankofengland.co.uk/-/media/boe/files/speech/2023/april/inflation-persistence-and-monetary-policy-huw-pill-slides.pdf)
 
 ## Central Bank Working Papers 
+
+### [Blockwise Boosted Inflation: Non-linear determinants of inflation using machine learning (Bank of England, Staff Working Paper No. 1,143, 2025)](https://www.bankofengland.co.uk/working-paper/2025/blockwise-boosted-inflation-non-linear-determinants-of-inflation-using-machine-learning) *joint with Marcus Buckmann and Galina Potjagailo*
+
+### [When the fog clears: the effect of reduced inflation uncertainty on households' financial behaviour (Bank of England, Staff Working Paper No. 1,133, 2025)](https://www.bankofengland.co.uk/working-paper/2025/when-the-fog-clears-the-effect-of-reduced-inflation-uncertainty-on-households-financial-behaviour) *joint with Johannes J. Fischer and Christoph Herler*
 
 ### [Beliefs- and fundamentals-driven job creation (Staff Working Paper No. 1,040, 2023)](https://www.bankofengland.co.uk/working-paper/2023/beliefs-and-fundamentals-driven-job-creation)
   

@@ -39,7 +39,7 @@ Education
 
 * Ph.D (DPhil) in Economics at the University of Oxford, 2022
 * MPhil in Economics at the University of Oxford, 2018
-* MA in international relations and international economics, Johns Hopkins University SAIS 2015
+* MA in International Relations and International Economics, Johns Hopkins University SAIS 2015
 
 Work experience
 ======

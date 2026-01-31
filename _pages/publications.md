@@ -24,16 +24,20 @@ author_profile: false
  * Materials: [Bank of England Staff Working Paper](https://www.bankofengland.co.uk/working-paper/2025/bouncing-back-how-mothballing-curbs-prices)
 
 
-## Working Paper coming soon
+### Blockwise Boosted Inflation: Non-linear determinants of inflation using machine learning (*with Marcus Buckmann and Galina Potjagailo*)
+ * Materials: [Bank of England Staff Working Paper](https://www.bankofengland.co.uk/working-paper/2025/blockwise-boosted-inflation-non-linear-determinants-of-inflation-using-machine-learning)
 
-### Boosted Inflation: supply- and demand determinants of inflation using machine learning (*with Marcus Buckmann and Galina Potjagailo*)
-
-### State-dependent Nonlinear Search and Matching (*with Hanbaek Lee and Francesco Zanetti*) 
-
-### The Effect of of Inflation Uncertainty on Household Spending (*with Johannes J. Fischer and Christoph Herler*)
+### When the fog clears: the effect of reduced inflation uncertainty on households' financial behaviour (*with Johannes J. Fischer and Christoph Herler*)
+ * Materials: [Bank of England Staff Working Paper](https://www.bankofengland.co.uk/working-paper/2025/when-the-fog-clears-the-effect-of-reduced-inflation-uncertainty-on-households-financial-behaviour), [Bank Underground Blogpost](https://bankunderground.co.uk/2025/12/04/how-does-lower-inflation-uncertainty-affect-households-financial-behaviour/)
  * Pre-registered as AEARCTR-0012949
 
-### Hiring, Mismatch, and Vacancies: Lessons from Unique U.K. Vacancy Data (*with Andrea Alati, Tomas Key, and Bradley Speigner, and Eran Yashiv*)
+### Endogenous Job Separation and the Nonlinear Nature of the Beveridge Curve (*with Hanbaek Lee and Francesco Zanetti*)
+ * Materials: [Draft](https://hanbaeklee.github.io/Webpage/Lee_Schnattinger_Zanetti_2026.pdf), [Appendix](https://hanbaeklee.github.io/Webpage/Lee_Schnattinger_Zanetti_2026Appendix.pdf)
+
+## Working Paper coming soon
+
+
+### Hiring, Mismatch, and Vacancies: Lessons from Unique U.K. Vacancy Data (*with Andrea Alati, Tomas Key, Bradley Speigner, and Eran Yashiv*)
 
 <br />
 <br />
