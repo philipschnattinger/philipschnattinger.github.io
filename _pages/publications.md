@@ -20,7 +20,7 @@ author_profile: false
 ### What is productive investment? Insights from firm-level data for the United Kingdom (*with Sudipto Karmakar, Marko Melolinna, and [Isabelle Roland](https://www.isabelleroland.com)*)
  * Materials: [Earlier Version Bank of England Staff Working Paper](https://www.bankofengland.co.uk/working-paper/2022/what-is-productive-investment-insights-from-firm-level-data-for-the-united-kingdom)
 
-### Bouncing back: how mothballing curbs prices (*Thibaut Duprey, Daniel E. Rigobon, and Artur Kotlicki*)
+### Bouncing back: how mothballing curbs prices (*[Thibaut Duprey](https://sites.google.com/site/thibautduprey/), Daniel E. Rigobon, and Artur Kotlicki*)
  * Materials: [Bank of England Staff Working Paper](https://www.bankofengland.co.uk/working-paper/2025/bouncing-back-how-mothballing-curbs-prices)
 
 
@@ -33,7 +33,8 @@ author_profile: false
  * Pre-registered as AEARCTR-0012949
  * ***Submitted***
 
-### Endogenous Job Separation and the Nonlinear Nature of the Beveridge Curve (*with [Hanbaek Lee](https://sites.google.com/view/hanbaeklee/home) and [Francesco Zanetti](https://users.ox.ac.uk/~wadh4073/)*)
+### Endogenous Separations and Non-monotone
+Beveridge Curve Shifts(*with [Hanbaek Lee](https://sites.google.com/view/hanbaeklee/home) and [Francesco Zanetti](https://users.ox.ac.uk/~wadh4073/)*)
  * Materials: [Draft](https://hanbaeklee.github.io/Webpage/Lee_Schnattinger_Zanetti_2026.pdf), [Appendix](https://hanbaeklee.github.io/Webpage/Lee_Schnattinger_Zanetti_2026Appendix.pdf)
 
 ## Working Paper coming soon
@@ -52,8 +53,8 @@ author_profile: false
  * Materials: [Bank of England Staff Working Paper](https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2023/beliefs-and-fundamentals-driven-job-creation.pdf), [Short video describing the main idea](https://www.youtube.com/watch?v=1CuFVz8nZiM&t=62s)
  * ***Forthcoming at the Oxford Economic Papers***
 
-### Timely Business Dynamics Using Google Places, AEA Papers and Proceedings. Vol. 113. American Economic Association, 2023. (*with  Thibaut Duprey, Daniel E. Rigobon, and Artur Kotlicki*) [Link](https://www.aeaweb.org/articles?id=10.1257/pandp.20231050)
- * Materials: [Bank of Canada Staff Working Paper](https://www.bankofcanada.ca/2022/01/staff-working-paper-2022-1/), [Short "Proof of Concept" paper in the JRFM](https://www.mdpi.com/1911-8074/15/4/183) (*with Daniel E. Rigobon, Thibaut Duprey, Artur Kotlicki, Soheil Baharian, and Thomas R. Hurd*)
+### Timely Business Dynamics Using Google Places, AEA Papers and Proceedings. Vol. 113. American Economic Association, 2023. (*with  [Thibaut Duprey](https://sites.google.com/site/thibautduprey/), Daniel E. Rigobon, and Artur Kotlicki*) [Link](https://www.aeaweb.org/articles?id=10.1257/pandp.20231050)
+ * Materials: [Bank of Canada Staff Working Paper](https://www.bankofcanada.ca/2022/01/staff-working-paper-2022-1/), [Short "Proof of Concept" paper in the JRFM](https://www.mdpi.com/1911-8074/15/4/183) (*with Daniel E. Rigobon, [Thibaut Duprey](https://sites.google.com/site/thibautduprey/), Artur Kotlicki, Soheil Baharian, and Thomas R. Hurd*)
 
 
   
