@@ -6,15 +6,15 @@ author_profile: false
 
 ## Blogposts and Columns
 
-### [Bank Underground Blogpost: How does lower inflation uncertainty affect households' financial behaviour?](https://bankunderground.co.uk/2025/12/04/how-does-lower-inflation-uncertainty-affect-households-financial-behaviour/) *joint with Johannes J. Fischer and Christoph Herler*
+### [Bank Underground Blogpost: How does lower inflation uncertainty affect households' financial behaviour?](https://bankunderground.co.uk/2025/12/04/how-does-lower-inflation-uncertainty-affect-households-financial-behaviour/) *joint with [Johannes J. Fischer](https://sites.google.com/view/johannesjfischer) and Christoph Herler*
 
 ### [What can 40 years of data on vacancy advertising costs tell us about labour market equilibrium?](https://bankunderground.co.uk/2025/03/06/what-can-40-years-of-data-on-vacancy-advertising-costs-tell-us-about-labour-market-equilibrium/) *joint with Michal Stelmach and James Kensett*
 
-### [Bank Underground Blogpost: Dissecting UK service inflation via a neural network Phillips curve](https://bankunderground.co.uk/2023/07/10/dissecting-uk-service-inflation-via-a-neural-network-phillips-curve/) *joint with Marcus Buckmann and Galina Potjagailo*
+### [Bank Underground Blogpost: Dissecting UK service inflation via a neural network Phillips curve](https://bankunderground.co.uk/2023/07/10/dissecting-uk-service-inflation-via-a-neural-network-phillips-curve/) *joint with Marcus Buckmann and [Galina Potjagailo](https://sites.google.com/view/gpotjagailo/home)*
 
 ### [Bank Underground Blogpost: Measuring business dynamics in real time](https://bankunderground.co.uk/2022/06/29/measuring-business-dynamics-in-real-rime/#more-10060) *joint with Thibaut Duprey, Artur Kotlicki, and Daniel Rigobon*
 
-### [VoxEU Column: Financial intermediation and zombie firms: Theory and evidence](https://cepr.org/voxeu/columns/financial-intermediation-and-zombie-firms-theory-and-evidence) *joint with Masashige Hamano,  Mototsugu Shintani,  Iichiro Uesugi and  Francesco Zanetti*
+### [VoxEU Column: Financial intermediation and zombie firms: Theory and evidence](https://cepr.org/voxeu/columns/financial-intermediation-and-zombie-firms-theory-and-evidence) *joint with [Masashige Hamano](https://sites.google.com/site/masashigehamano/masashige-hamano-lab),  [Mototsugu Shintani](https://sites.google.com/site/motoshintani/),  Iichiro Uesugi and  Francesco Zanetti*
 
 ### [VoxEU Column: Measuring business openings and closures in real time](https://cepr.org/voxeu/columns/measuring-business-openings-and-closures-real-time) *joint with Thibaut Duprey, Artur Kotlicki, and Daniel Rigobon*
 
@@ -24,13 +24,13 @@ author_profile: false
 
 ## Central Bank Working Papers 
 
-### [Blockwise Boosted Inflation: Non-linear determinants of inflation using machine learning (Bank of England, Staff Working Paper No. 1,143, 2025)](https://www.bankofengland.co.uk/working-paper/2025/blockwise-boosted-inflation-non-linear-determinants-of-inflation-using-machine-learning) *joint with Marcus Buckmann and Galina Potjagailo*
+### [Blockwise Boosted Inflation: Non-linear determinants of inflation using machine learning (Bank of England, Staff Working Paper No. 1,143, 2025)](https://www.bankofengland.co.uk/working-paper/2025/blockwise-boosted-inflation-non-linear-determinants-of-inflation-using-machine-learning) *joint with Marcus Buckmann and [Galina Potjagailo](https://sites.google.com/view/gpotjagailo/home)*
 
-### [When the fog clears: the effect of reduced inflation uncertainty on households' financial behaviour (Bank of England, Staff Working Paper No. 1,133, 2025)](https://www.bankofengland.co.uk/working-paper/2025/when-the-fog-clears-the-effect-of-reduced-inflation-uncertainty-on-households-financial-behaviour) *joint with Johannes J. Fischer and Christoph Herler*
+### [When the fog clears: the effect of reduced inflation uncertainty on households' financial behaviour (Bank of England, Staff Working Paper No. 1,133, 2025)](https://www.bankofengland.co.uk/working-paper/2025/when-the-fog-clears-the-effect-of-reduced-inflation-uncertainty-on-households-financial-behaviour) *joint with [Johannes J. Fischer](https://sites.google.com/view/johannesjfischer) and Christoph Herler*
 
 ### [Beliefs- and fundamentals-driven job creation (Staff Working Paper No. 1,040, 2023)](https://www.bankofengland.co.uk/working-paper/2023/beliefs-and-fundamentals-driven-job-creation)
   
-### [What is productive investment? Insights from firm-level data for the United Kingdom (Bank of England, Staff Working Paper No. 992, 2022)](https://www.bankofengland.co.uk/working-paper/2022/what-is-productive-investment-insights-from-firm-level-data-for-the-united-kingdom) *joint with  Sudipto Karmakar and Marko Melolinna*
+### [What is productive investment? Insights from firm-level data for the United Kingdom (Bank of England, Staff Working Paper No. 992, 2022)](https://www.bankofengland.co.uk/working-paper/2022/what-is-productive-investment-insights-from-firm-level-data-for-the-united-kingdom) *joint with Sudipto Karmakar, Marko Melolinna, and [Isabelle Roland](https://www.isabelleroland.com)*
   
 ### [ Business Closures and (Re)Openings in Real Time Using Google Places (Bank of Canada, Staff Working Paper 2022-1)](https://www.bankofcanada.ca/2022/01/staff-working-paper-2022-1/) *joint with Thibaut Duprey, Daniel E. Rigobon, Artur Kotlicki, Soheil Baharian, and T. R. Hurd*
  
