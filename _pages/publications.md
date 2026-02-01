@@ -48,9 +48,8 @@ author_profile: false
 
 # Published Work
 
-### Beliefs- and fundamentals-driven job creation 
+### Beliefs- and fundamentals-driven job creation, Oxford Economic Papers, Volume 77, Issue 4, 1037, 2025. [Link](https://academic.oup.com/oep/article-abstract/77/4/1037/8114760)
  * Materials: [Bank of England Staff Working Paper](https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2023/beliefs-and-fundamentals-driven-job-creation.pdf), [Short video describing the main idea](https://www.youtube.com/watch?v=1CuFVz8nZiM&t=62s)
- * ***Forthcoming at the Oxford Economic Papers***
 
 ### Timely Business Dynamics Using Google Places, AEA Papers and Proceedings. Vol. 113. American Economic Association, 2023. (*with  [Thibaut Duprey](https://sites.google.com/site/thibautduprey/), Daniel E. Rigobon, and Artur Kotlicki*) [Link](https://www.aeaweb.org/articles?id=10.1257/pandp.20231050)
  * Materials: [Bank of Canada Staff Working Paper](https://www.bankofcanada.ca/2022/01/staff-working-paper-2022-1/), [Short "Proof of Concept" paper in the JRFM](https://www.mdpi.com/1911-8074/15/4/183) (*with Daniel E. Rigobon, [Thibaut Duprey](https://sites.google.com/site/thibautduprey/), Artur Kotlicki, Soheil Baharian, and Thomas R. Hurd*)
